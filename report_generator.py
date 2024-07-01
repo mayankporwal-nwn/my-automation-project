@@ -1,3 +1,4 @@
+#!usr/bin/python3
 import os
 import csv
 from datetime import datetime
