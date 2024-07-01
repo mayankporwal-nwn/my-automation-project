@@ -27,18 +27,6 @@ The **Automated File Management and Reporting System** is designed to automate f
    ```bash
    git clone <your-github-repo-url>
    cd my-automation-project
-
-   Certainly! Here are the sections formatted as markdown code blocks so that you can directly copy and paste them into your `README.md` file:
-
-```markdown
-### Running the Scripts
-
-#### Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone <your-github-repo-url>
-   cd my-automation-project
    ```
 
 2. **Python Environment:**
